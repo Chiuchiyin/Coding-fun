@@ -1,9 +1,1 @@
-~~probably should change next page loop, the html tag contains: aria-label="Next page"~~
-
-~~Split cities in groups and give each group it's own notebook~~
-
-make actual readme.md explaining the roles of each files.
-
-~~write code to combine csv files and data cleaning in separate file.~~
-
-make new notebook for ~~EDA~~ and modelling
+This was capstone project of my Data Science Immersive course. A detailed documentation will be provided by the end of this week in a separate pdf file.
